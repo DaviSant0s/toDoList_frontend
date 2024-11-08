@@ -1,0 +1,9 @@
+.cardsHover{
+  /* background-color: red !important; */
+}
+
+.droppable-placeholder {
+  background-color: red !important;
+  min-height: 128px !important;  /* Defina aqui a altura do card */
+  /* height: 128px; */
+}
